@@ -46,3 +46,6 @@ Content-Type: application/json
 
 ### Delete a Run
 DELETE http://localhost:8080/api/runs/11
+
+###
+GET http://localhost:8080/api/runs/location/OUTDOOR
